@@ -7,3 +7,13 @@ button {
     height: 25px;
     background-color: palevioletred;
 }
+
+.visible-photo{
+    opacity: 0;
+}
+
+.btnphoto{
+    width: 150px;
+    height: 25px;
+    background-color: rgb(69, 218, 181);
+}

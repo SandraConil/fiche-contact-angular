@@ -24,4 +24,8 @@ hidden(){
   affichAge.classList.toggle("visible");
 }
 
+hiddenphoto(){
+  const affichPhoto = document.querySelector(".photo") as HTMLImageElement;
+  affichPhoto.classList.toggle("visible-photo");
+}
 }
