@@ -1,0 +1,9 @@
+.visible {
+    visibility: hidden;
+}
+
+button {
+    width: 150px;
+    height: 25px;
+    background-color: palevioletred;
+}
